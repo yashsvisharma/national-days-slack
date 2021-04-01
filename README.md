@@ -17,7 +17,7 @@ A simple webserver built using Node.js and Express.js that scrapes https://natio
 
 ## Installation
 
-`git clone`
+`git clone git@github.com:yashsvisharma/national-days-slack.git`
 
 `cd national-days-slack`
 
