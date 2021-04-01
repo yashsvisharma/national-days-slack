@@ -18,8 +18,11 @@ A simple webserver built using Node.js and Express.js that scrapes https://natio
 ## Installation
 
 `git clone`
+
 `cd national-days-slack`
+
 `npm install`
+
 `node app.js` --> will run the server on `localhost:3000` and accepts POST requests.
 
 ## Usage
